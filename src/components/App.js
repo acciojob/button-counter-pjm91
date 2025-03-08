@@ -12,7 +12,7 @@ const App = () => {
     <div>
     <p>Button clicked{count}times</p>
     <button onClick={onAdd}>Click me</button>
-        {/* Do not remove the main div */}
+       
     </div>
   )
 }
